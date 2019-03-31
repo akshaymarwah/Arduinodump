@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For ArduinoArcherPanelClient
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ArduinoArcherPanelClient    KEYWORD1
+AuthenticationCommand   KEYWORD1
+AuthenticationResponseEvent KEYWORD1
+ElementClickEvent   KEYWORD1
+KeepAliveCommand    KEYWORD1
+ObserverPanelsCommand   KEYWORD1
+PanelCommand    KEYWORD1
+PanelEvent  KEYWORD1
+SetVariableCommand  KEYWORD1
+UserValueInputEvent KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+toJson  KEYWORD2
+jsonToEvent KEYWORD2
+isAuthenticated KEYWORD2
+isTypeOf    KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
